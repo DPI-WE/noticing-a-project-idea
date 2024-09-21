@@ -28,23 +28,27 @@ Innovation often comes from observing the world around you, identifying problems
 <!-- The Canyon Metaphor for Ideas -->
 Just as the Grand Canyon was formed over millions of years through gradual, often accidental forces of nature, our world is shaped by time, momentum, and experiences. These forces create deep channels of thought and perception, reinforcing our understanding of reality.
 
-In Alan Kay’s view, many innovations arise from simply looking at the world differently. By stepping back and observing how systems evolve, you can spot opportunities for innovation that others might miss.
+Many innovations arise from simply looking at the world differently. By stepping back and observing how systems evolve, you can spot opportunities for innovation that others might miss.
 
-Key takeaway: To notice new ideas, we must look beyond the immediate and seek higher viewpoints, understanding that our surroundings and ideas are shaped by cumulative experiences over time.
+<!-- 
+Key takeaway: To notice new ideas, we must look beyond the immediate and seek higher viewpoints, understanding that our surroundings and ideas are shaped by cumulative experiences over time. 
+-->
 
 
 <!-- Point of View as a Superpower -->
 Having a unique point of view allows you to build something that others might not see. It’s the combination of your life experiences, skills, and insights that enable you to notice what others overlook.
 
+<!-- 
 Key Insights:
 Look for New Combinations: Innovation often comes from combining existing ideas in new ways. Consider how current technologies can intersect to create something novel.
 Recognize Patterns: Pay attention to how different systems work and evolve. Understanding these patterns can help you predict future needs and challenges.
 Stay Curious: Ask questions about the world around you. Curiosity drives exploration and can lead to valuable insights.
+ -->
 Consider these examples:
 
-Elon Musk: Views technology as the key to solving humanity's greatest challenges, like space colonization and sustainable energy.
-Steve Jobs: Believed technology should be intuitive and beautifully designed, revolutionizing the consumer tech world.
-Judy Faulkner: Focused on healthcare technology, improving patient care through innovative health records management.
+- Elon Musk: Views technology as the key to solving humanity's greatest challenges, like space colonization and sustainable energy.
+- Steve Jobs: Believed technology should be intuitive and beautifully designed, revolutionizing the consumer tech world.
+- Judy Faulkner: Focused on healthcare technology, improving patient care through innovative health records management.
 
 <!-- What makes a good innovator?  -->
 
