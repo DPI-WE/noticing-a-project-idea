@@ -32,6 +32,9 @@ Innovation often comes from observing the world around you, identifying problems
 
 ## You exist in the context of all that came before you
 ![bg contain](assets/grand-canyon-toroweap-point-sunrise.webp)
+
+---
+
 ![bg contain](assets/grand-canyon-horseshoe.jpg)
 
 Just as the Grand Canyon was formed over millions of years through gradual, often accidental forces of nature, our world is shaped by time, momentum, and experiences. These forces create deep channels of thought and perception, reinforcing our understanding of reality.
@@ -161,9 +164,9 @@ Generally, building something you find interesting or in a field you have an exp
 - Is there a problem you've personally encountered you can build a solution for?
 - Is there something you just wish existed?
 - Is there something about the world that has changed recently that has created an opportunity?
-- Go out and talk to people!
 - Is there a big industry that seems broken?
 
+- Go out and talk to people!
 
 <!-- TODO: add quiz questions -->
 
