@@ -23,7 +23,6 @@ Innovation often comes from observing the world around you, identifying problems
 
 <!-- Focus on the future -->
 <!-- focusing on the future rather than what's already been done. -->
-<!-- TODO: dynabook example? -->
 
 ![](assets/gretzky-game-graph.png)
 <!-- exponential line graph with y-axis progress and x-axis time starting with "It would be cool if..." and ending with "How did we live without this?" -->
@@ -40,8 +39,6 @@ Just as the Grand Canyon was formed over millions of years through gradual, ofte
 ![bg contain](./assets/carving-out-a-canyon.png)
 
 Many innovations arise from simply looking at the world differently. By stepping back and observing how systems evolve, you can spot opportunities for innovation that others might miss. To notice new ideas, we must look beyond the immediate and seek higher viewpoints, understanding that our surroundings and ideas are shaped by cumulative experiences over time.
-
-![bg contain](./assets/grand-canyon-floor.jpeg)
 
 ![bg contain](./assets/canyon-narrow.avif)
 
