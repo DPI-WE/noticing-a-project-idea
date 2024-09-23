@@ -31,16 +31,16 @@ Innovation often comes from observing the world around you, identifying problems
 > Wayne Gretzky
 
 ## You exist in the context of all that came before you
-![bg contain](./assets/grand-canyon-toroweap-point-sunrise.webp)
-![bg contain](./assets/grand-canyon-horseshoe.jpg)
+![bg contain](assets/grand-canyon-toroweap-point-sunrise.webp)
+![bg contain](assets/grand-canyon-horseshoe.jpg)
 
 Just as the Grand Canyon was formed over millions of years through gradual, often accidental forces of nature, our world is shaped by time, momentum, and experiences. These forces create deep channels of thought and perception, reinforcing our understanding of reality.
 
-![bg contain](./assets/carving-out-a-canyon.png)
+![bg contain](assets/carving-out-a-canyon.png)
 
 Many innovations arise from simply looking at the world differently. By stepping back and observing how systems evolve, you can spot opportunities for innovation that others might miss. To notice new ideas, we must look beyond the immediate and seek higher viewpoints, understanding that our surroundings and ideas are shaped by cumulative experiences over time.
 
-![bg contain](./assets/canyon-narrow.avif)
+![bg contain](assets/canyon-narrow.avif)
 
 ## Old Is New Again
 Many new/innovative ideas are actually just new takes on really old ideas that arise from looking at the world differently.
@@ -69,21 +69,21 @@ What is the most important trait for building a new idea?
 
 Leonardo Da Vinci (1452–1519) had vast contributions to art, science, engineering, anatomy, and more! You probably know Da Vinci for his paintings like the "Mona Lisa" and "Last Supper".
 
-![bg contain right](./assets/da-vinci-portrait.webp)
+![bg contain right](assets/da-vinci-portrait.webp)
 
-![bg contain](./assets/da-vinci-mona-lisa.webp)
+![bg contain](assets/da-vinci-mona-lisa.webp)
 
-![bg contain](./assets/da-vinci-last-supper.webp)
+![bg contain](assets/da-vinci-last-supper.webp)
 
 Da Vinci's designs and concepts in engineering were far ahead of his time.
 
-![bg contain](./assets/da-vinci-flying-machine-1.jpg)
+![bg contain](assets/da-vinci-flying-machine-1.jpg)
 
-![bg contain](./assets/da-vinci-flying-machine-2.webp)
+![bg contain](assets/da-vinci-flying-machine-2.webp)
 
-![bg contain](./assets/da-vinci-machine-gun.webp)
+![bg contain](assets/da-vinci-machine-gun.webp)
 
-![bg contain](./assets/da-vinci-tank.webp)
+![bg contain](assets/da-vinci-tank.webp)
 
 Da Vinci must of had a lot of *inteligence* in order to create, but raw brainpower alone isn't enough. Beyond raw intellectual horsepower, Da Vinci must have picked up the *knowledge and technical skills* to paint, sketch, and design his works. Today those skills might be coding, engineering, or design. Knowing how to do something doesn't guarantee insight into what should be done. Having a *point of view* is what turns ideas into reality. The combination of your unique perspective, experiences, skills, and intelligence produce the best ideas.
 
