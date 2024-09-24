@@ -26,7 +26,6 @@ Ideas are the foundation for innovative software development. Innovation often c
 > — Wayne Gretzky
 
 ## Contextualizing Your Ideas
-![bg contain](assets/grand-canyon-toroweap-point-sunrise.webp)
 ![bg contain](assets/grand-canyon-horseshoe.jpg)
 
 Just as the Grand Canyon was formed over millions of years through gradual and often accidental forces of nature, our world is shaped by time, momentum, and experiences. These forces create deep channels of thought and perception, reinforcing our understanding of reality.
