@@ -6,15 +6,12 @@
 
 </div>
 
-<!-- INTRO -->
-Ideas are the foundation for innovative software development. In this lesson, we'll explore how to generate ideas organically to solve real problems for real people.
-
 > "...everything around you that you call life was made up by people no smarter than you"
 >
 > [Steve Jobs](https://www.youtube.com/watch?v=kYfNvmF0Bqw)
 
-
-Innovation often comes from observing the world around you, identifying problems, and finding potential solutions.
+<!-- INTRO -->
+Ideas are the foundation for innovative software development. Innovation often comes from observing the world around you, identifying problems, and finding potential solutions. In this lesson, we'll explore how to generate ideas organically to solve real problems for real people and why you may be uniquely suited to do so.
 
 <!-- "notice" rather than "think up" ideas. -->
 > The verb you want to be using with respect to startup ideas is not "think up" but "notice." We call ideas that grow naturally out of the founders' own experiences "organic" startup ideas. The most successful startups almost all begin this way.
