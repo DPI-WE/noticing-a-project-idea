@@ -10,72 +10,60 @@
 >
 > [Steve Jobs](https://www.youtube.com/watch?v=kYfNvmF0Bqw)
 
-<!-- INTRO -->
-Ideas are the foundation for innovative software development. Innovation often comes from observing the world around you, identifying problems, and finding potential solutions. In this lesson, we'll explore how to generate ideas organically to solve real problems for real people and why you may be uniquely suited to do so.
+## Introduction
+Ideas are the foundation for innovative software development. Innovation often comes from observing the world around you, identifying problems, and finding potential solutions. In this lesson, we'll explore how to generate ideas organically to solve real problems for real people — and why you may be uniquely suited to do so.
 
-<!-- "notice" rather than "think up" ideas. -->
-> The verb you want to be using with respect to startup ideas is not "think up" but "notice." We call ideas that grow naturally out of the founders' own experiences "organic" startup ideas. The most successful startups almost all begin this way.
->
-> [Paul Graham](https://paulgraham.com/startupideas.html)
-
-<!-- Focus on the future -->
-<!-- focusing on the future rather than what's already been done. -->
-
-![](assets/gretzky-game-graph.png)
-<!-- exponential line graph with y-axis progress and x-axis time starting with "It would be cool if..." and ending with "How did we live without this?" -->
-
-> "Skate to where the puck is going, not where it has been."
-> Wayne Gretzky
-
-## You exist in the context of all that came before you
-![bg contain](assets/grand-canyon-toroweap-point-sunrise.webp)
+> The verb you want to use regarding startup ideas is not "think up," but "notice." We call ideas that grow naturally out of the founders' own experiences "organic" startup ideas. The most successful startups almost all begin this way.  
+> — [Paul Graham](https://paulgraham.com/startupideas.html)
 
 ---
 
+## Focus on the Future
+![](assets/gretzky-game-graph.png)
+<!-- exponential line graph with y-axis progress and x-axis time starting with "It would be cool if..." and ending with "How did we live without this?" -->
+
+> "Skate to where the puck is going, not where it has been."  
+> — Wayne Gretzky
+
+## Contextualizing Your Ideas
+![bg contain](assets/grand-canyon-toroweap-point-sunrise.webp)
 ![bg contain](assets/grand-canyon-horseshoe.jpg)
 
-Just as the Grand Canyon was formed over millions of years through gradual, often accidental forces of nature, our world is shaped by time, momentum, and experiences. These forces create deep channels of thought and perception, reinforcing our understanding of reality.
+Just as the Grand Canyon was formed over millions of years through gradual and often accidental forces of nature, our world is shaped by time, momentum, and experiences. These forces create deep channels of thought and perception, reinforcing our understanding of reality.
 
 ![bg contain](assets/carving-out-a-canyon.png)
 
-Many innovations arise from simply looking at the world differently. By stepping back and observing how systems evolve, you can spot opportunities for innovation that others might miss. To notice new ideas, we must look beyond the immediate and seek higher viewpoints, understanding that our surroundings and ideas are shaped by cumulative experiences over time.
+Many innovations arise from looking at the world differently. By stepping back and observing how systems evolve, you can spot opportunities for innovation that others might miss. To notice new ideas, we must seek higher viewpoints, understanding that our surroundings and ideas are shaped by cumulative experiences.
 
 ![bg contain](assets/canyon-narrow.avif)
 
+---
 ## Old Is New Again
-Many new/innovative ideas are actually just new takes on really old ideas that arise from looking at the world differently.
+Many innovative ideas are simply new takes on old concepts that arise from a fresh perspective.
 
-### Airbnb
-For millennia, travelers stayed with locals in inns, guesthouses, or private homes. In ancient Greece and Rome, hospitality was considered a sacred duty, and many households welcomed travelers. Even during medieval times, monasteries provided lodging to pilgrims, and throughout history, travelers often paid to stay in private homes.
+### Examples
+- **Airbnb**: A modern take on ancient hospitality traditions, where travelers stayed in private homes.
+- **Uber**: Evolved from the concept of paid rides that dates back to horse-drawn carriages.
+- **Amazon**: A digital version of mail-order catalogs and physical retail stores.
+- **Craigslist**: A modern platform for classified ads, stemming from traditional newspaper listings.
+- **Spotify**: A new approach to music distribution, evolving from live performances and physical media.
 
-### Uber
-The concept of paying for a ride dates back to horse-drawn carriages, or "hackney carriages," which were regulated in London as early as the 17th century. By the 19th century, horse-drawn "cabs" had evolved into motorized taxis, with the first taxi meters being introduced in 1897 in Germany.
-
-### Amazon
-Before the advent of the internet, mail-order catalogs and physical retail stores were the primary means for consumers to purchase goods.
-
-### Craigslist
-Classified advertising has long been a staple in newspapers and local publications, serving as a platform for job listings, housing, for-sale items, and services. This traditional model was well-established by the time the internet began to proliferate.
-
-### Spotify
-Music distribution dates back to live performances, but the invention of the phonograph in the late 19th century allowed music to be recorded and sold in physical formats, such as records, tapes, and eventually CDs. Radio (early 20th century) brought music to mass audiences for free, supported by advertisements.
+---
 
 ## Am I an Innovator?
 What is the most important trait for building a new idea?
-- IQ?
-- Knowledge?
-- Skills?
-- Something else???
+- **IQ?**
+- **Knowledge?**
+- **Skills?**
+- **Something else?**
 
-Leonardo Da Vinci (1452–1519) had vast contributions to art, science, engineering, anatomy, and more! You probably know Da Vinci for his paintings like the "Mona Lisa" and "Last Supper".
+Leonardo da Vinci (1452–1519) made vast contributions to art, science, engineering, and more. Known for masterpieces like the "Mona Lisa" and "The Last Supper," Da Vinci's groundbreaking designs were far ahead of his time.
 
 ![bg contain right](assets/da-vinci-portrait.webp)
 
 ![bg contain](assets/da-vinci-mona-lisa.webp)
 
 ![bg contain](assets/da-vinci-last-supper.webp)
-
-Da Vinci's designs and concepts in engineering were far ahead of his time.
 
 ![bg contain](assets/da-vinci-flying-machine-1.jpg)
 
@@ -85,15 +73,16 @@ Da Vinci's designs and concepts in engineering were far ahead of his time.
 
 ![bg contain](assets/da-vinci-tank.webp)
 
-Da Vinci must of had a lot of *inteligence* in order to create, but raw brainpower alone isn't enough. Beyond raw intellectual horsepower, Da Vinci must have picked up the *knowledge and technical skills* to paint, sketch, and design his works. Today those skills might be coding, engineering, or design. Knowing how to do something doesn't guarantee insight into what should be done. Having a *point of view* is what turns ideas into reality. The combination of your unique perspective, experiences, skills, and intelligence produce the best ideas.
+Da Vinci's intelligence was essential, but raw brainpower alone isn't enough. Beyond intelligence, he possessed the knowledge and technical skills necessary for his art and inventions. Today, these skills might include coding, engineering, or design. Knowing *how* to do something doesn't guarantee insight into what *should* be done. Having a unique point of view is what turns ideas into reality.
 
 ## Point of View as a Superpower
-Having a unique point of view allows you to build something that others might not see. It’s the combination of your life experiences, skills, and insights that enable you to notice what others overlook.
+A unique point of view allows you to build something that others might not see. It’s the combination of your life experiences, skills, and insights that enables you to notice what others overlook.
 
-- **Look for New Combinations**: Innovation often comes from combining existing ideas in new ways. Consider how current technologies can intersect to create something novel.
-- **Recognize Patterns**: Pay attention to how different systems work and evolve. Understanding these patterns can help you predict future needs and challenges.
-- **Stay Curious**: Ask questions about the world around you. Curiosity drives exploration and can lead to valuable insights.
-- **Help Yourself and Others**: Can you think of ways you can use technology to help automate the drudgery out of your life?
+### Key Strategies
+- **Look for New Combinations**: Innovation often comes from merging existing ideas in novel ways.
+- **Recognize Patterns**: Understanding how different systems work and evolve can help you predict future needs.
+- **Stay Curious**: Asking questions about the world around you drives exploration and can lead to valuable insights.
+- **Help Yourself and Others**: Consider ways to use technology to automate tedious tasks in your life.
 
 <!-- TODO: strong pov
 
@@ -103,77 +92,66 @@ Having a unique point of view allows you to build something that others might no
 
 -->
 
-<!-- How to evaluate project ideas -->
-## When considering an idea, ask yourself the following:
+## Evaluating Your Ideas
+When considering an idea, ask yourself the following: **Am I the Right Person to Solve This?**
 
-### Are you the right person to solve this?
-Think about your previous experiences and work. Do you have unique insight or expertise in this area? You may be uniquely suited to identify, understand, and solve a problem better than anyone else. 
+Reflect on your previous experiences. Do you have unique insight or expertise in this area? You may be uniquely suited to identify, understand, and solve a problem better than anyone else.
 
 <!-- TODO: previous projects that mapped to a trainee experience -->
 #### Trainee Examples
-Past trainees have leveraged their life and work experience to build something new:
+Past trainees have leveraged their life experiences to create innovative solutions:
 
-- Jose worked as a branch clerk for Chase Bank. He noticed that customers often didn't realize many of the benefits of using credit cards, which inspired his final project [CreditSmart](https://www.loom.com/share/9ed1e5dcbe444bea8707ee711b89cb10?t=163&sid=3e61f441-a32d-42bd-a4f4-8fff7fb31f4e).
-- Fidel worked as a piano teacher. He felt the pain points of updating students and parents on their progress and planning his schedule, which inspired [LessonLinx](https://www.youtube.com/watch?v=Olk2nNJjJrE).
-- Natalie worked in Quality Assurance for a manufacturing company. She felt the pain of documenting quality checks as parts moved through the factory, which inspired [QualiTrackr](https://drive.google.com/file/d/11vamruKx7hbhW9HG6cjFht3TnMhDZ9kL/view).
-- Adolfo worked part time in his family's Dry Cleaning Company. He noticed the pain points his parents encountered tracking orders, taking payments, and notifying customers when orders were completed, which inspired [Valenti Cleaners POS](https://drive.google.com/file/d/14o2SCTNXT1xVQYdEoc8PJMBIIT9oCd9F/view)
+- **Jose**: Noticed customers at Chase Bank were unaware of credit card benefits, leading to [CreditSmart](https://www.loom.com/share/9ed1e5dcbe444bea8707ee711b89cb10?t=163&sid=3e61f441-a32d-42bd-a4f4-8fff7fb31f4e).
+- **Fidel**: As a piano teacher, he recognized the need for better communication with students and parents, inspiring [LessonLinx](https://www.youtube.com/watch?v=Olk2nNJjJrE).
+- **Natalie**: In Quality Assurance, she faced challenges documenting quality checks, leading to [QualiTrackr](https://drive.google.com/file/d/11vamruKx7hbhW9HG6cjFht3TnMhDZ9kL/view).
+- **Adolfo**: Observed pain points in his family's dry cleaning business, resulting in [Valenti Cleaners POS](https://drive.google.com/file/d/14o2SCTNXT1xVQYdEoc8PJMBIIT9oCd9F/view).
 - ...and more on [rfp.dpi.dev](https://rfp.dpi.dev)
 
 <!-- TODO
 - jp (gym scheduling)
 - sam (climbing)
 - reza (er admin)
+...more!
 -->
 
-### How big is the market?
-Do a lot of people have this problem? (More is usually better) Either a lot of people have the problem **OR** a few people are willing to pay a lot to solve it.
+## How Big Is the Market?
+Is this a problem affecting many people? Either a lot of people face this problem, or a few are willing to pay a lot to solve it.
 
-<!-- pricing -->
-<!-- difficuly in finding users / customers -->
+### How Acute Is the Problem?
+Is this problem genuinely painful or annoying? How often do people encounter it? (The more frequently, the better.)
 
-### How acute is the problem?
-Is this problem really painful and/or annoying? How often do people encounter this problem? (more often is usually better)
+### Do You Have Competition?
+Competition can validate the problem's significance. It shows that others are also attempting to solve it.
 
-<!-- eg uber: I need to get places multiple times a day -->
-<!-- buying a house: once a lifetime maybe? -->
+### Did This Recently Become Possible or Necessary?
+Has something changed in the world? - new technology, laws, or emerging issues — that makes your idea timely?
 
-### Do you have competition?
-Competition can be a good sign! It shows that others are also working to solve the problem, validating its significance. (It could also mean it's a [tarpit idea](https://www.ycombinator.com/library/Ij-tarpit-ideas-what-are-tarpit-ideas-how-to-avoid-them))
+### Do You Want This?
+You’ll be your first customer. If the solution solves a problem for you, it's likely to help others.
 
-### Did this recently become possible or necessary?
-Has something about the world changed recently? (New technology, law, problem, etc.)
+### Is This an Idea You’d Want to Work on for Years?
+Are you passionate about this problem? Do you have a personal connection to it? Do you enjoy working with your target users?
 
-### Do you want this?
-You'll already have a first user... you! Are there a lot of other people like you? You should be your own first customer. If it solves a problem for you, it's likely to solve it for others.
+### Is This a Good Idea Space?
+A promising idea space has many people facing the problem and willing to try your solution. Your first version will likely be imperfect, but you can learn and iterate based on user feedback. Check our [Requests for Projects page](https://rfp.dpi.dev) for potential idea spaces.
 
-### Is this an idea you'd want to work on for years?
-Are you passionate about this problem? Do you have a personal connection? Do you like your user?
+### Additional Questions to Consider
+- What are your strengths?
+- Is there a problem you've personally experienced that you can solve?
+- Is there something you wish existed?
+- Has anything changed recently that creates new opportunities?
+- Are there industries that seem broken?
 
-### Is this a good idea space?
-A good idea space has a lot of people with this problem willing to try your solution (and pay for it) Your first version will probably be wrong/bad. You will learn a lot by building, deploying and getting feedback from users. If you're in a good idea space (with a high potential for success) you can iterate towards the optimal solution. Check out our [Requests for Projects page](https://rfp.dpi.dev) for some good idea spaces
-
-Generally, building something you find interesting or in a field you have an expertise or insight is a good start!
-
-
-### More questions to consider
-
-- What are you good at?
-- Is there a problem you've personally encountered you can build a solution for?
-- Is there something you just wish existed?
-- Is there something about the world that has changed recently that has created an opportunity?
-- Is there a big industry that seems broken?
-
-- Go out and talk to people!
+Don't hesitate to talk to people about their needs and experiences!
 
 <!-- TODO: add quiz questions -->
 
 Remember, we're just building projects to build out your portfolio, learn and get better at our craft.
 
 ## Assignment: Propose Project Ideas
-I recommend you start writing down ideas you notice organically and rank them on these key questions.
-Focus on the **problem** / **pain point** you plan to address. Solutions are easier to change than problems.
+Start writing down ideas you notice organically and rank them based on these key questions. Focus on the **problem** or **pain point** you intend to address. Solutions are generally easier to adjust than problems.
 
-Identify 3-5 problems or pain points you may want to address. We want to make sure you have at lest considered a few problems before building any solutions. Use the questions from this lesson to evaluate your ideas. Submit your proposals in a spreadsheet format, answering key evaluation questions such as market size, problem frequency, your unique insight into the problem, etc. Don't hesitate to reach out for a 1on1 with an instructor, TA, or fellow trainee and talk through what you are thinking.
+Identify 3-5 problems or pain points you may want to address. Ensure you've considered a few before building any solutions. Use the questions from this lesson to evaluate your ideas. Submit your proposals in a spreadsheet format, answering key evaluation questions such as market size, problem frequency, and your unique insights. Don’t hesitate to reach out for a one-on-one with an instructor, TA, or fellow trainee to discuss your thoughts.
 
 ![](assets/ideas-spreadsheet-example.png)
 
