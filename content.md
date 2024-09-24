@@ -123,7 +123,7 @@ Is this problem genuinely painful or annoying? How often do people encounter it?
 Competition can validate the problem's significance. It shows that others are also attempting to solve it.
 
 ### Did This Recently Become Possible or Necessary?
-Has something changed in the world? - new technology, laws, or emerging issues — that makes your idea timely?
+Has something changed in the world - new technology, laws, or emerging issues — that makes your idea timely?
 
 ### Do You Want This?
 You’ll be your first customer. If the solution solves a problem for you, it's likely to help others.
