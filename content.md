@@ -113,7 +113,7 @@ Past trainees have leveraged their life experiences to create innovative solutio
 ...more!
 -->
 
-## How Big Is the Market?
+### How Big Is the Market?
 Is this a problem affecting many people? Either a lot of people face this problem, or a few are willing to pay a lot to solve it.
 
 ### How Acute Is the Problem?
