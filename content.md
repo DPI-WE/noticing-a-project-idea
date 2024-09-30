@@ -160,16 +160,16 @@ Please create a spreadsheet using [Google Sheets](https://sheets.google.com) and
 
 ![](assets/anyone-with-link.png)
 
-- Enter your `docs.google.com/spreadsheets` shared URL:
-- `docs.google.com/spreadsheets/d/id/edit?usp=sharing`
+- Did you create a project idea evaluation spreadsheet?
+- Yes
   - Great job!
-- any
-  - Not quite. Make sure the URL looks like: `docs.google.com/spreadsheets`
+- No
+  - Please create an ideas spreadsheet using the template.
 {: .free_text #project_ideas_spreadsheet title="Project Ideas Spreadsheet URL" points="1" answer="1" }
 
 <div class="alert alert-danger mt-2">
 
-After you submit the URL here, return to Canvas and submit the URL again in the assignment "Noticing a Project Idea: Spreadsheet". I recommend booking time with an instructor or TA to get more feedback on your ideas.
+Return to Canvas and submit the URL of your ideas spreadsheet in the assignment "Noticing a Project Idea: Spreadsheet". I recommend booking time with an instructor or TA to get more feedback on your ideas.
 
 </div>
 
