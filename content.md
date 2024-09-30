@@ -154,7 +154,7 @@ Identify 3-5 problems or pain points you may want to address. Ensure you've cons
 
 ![](assets/ideas-spreadsheet-example.png)
 
-[Example template: Project Idea Evaluation Template](https://docs.google.com/spreadsheets/d/1jrgdMMt33lIGqXTEu8vE2fwLjoMkzyJAPlZuKLihvuQ/edit#gid=0)
+[Example template: Project Idea Evaluation Template](https://docs.google.com/spreadsheets/d/1NbArEqqP3hkypg1e0G2TnCVIIbSrmaD9ixxFV_sFHNk/edit?usp=sharing)
 
 Please create a spreadsheet using [Google Sheets](https://sheets.google.com) and share your url. It should be something like this: `docs.google.com/spreadsheets/<...>`. Make sure anyone with the link can view.
 
