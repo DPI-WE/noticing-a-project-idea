@@ -165,7 +165,7 @@ Please create a spreadsheet using [Google Sheets](https://sheets.google.com) and
   - Great job!
 - No
   - Please create an ideas spreadsheet using the template.
-{: .free_text #project_ideas_spreadsheet title="Project Ideas Spreadsheet URL" points="1" answer="1" }
+{: .choose_best #project_ideas_spreadsheet title="Project Ideas Spreadsheet URL" points="1" answer="1" }
 
 <div class="alert alert-danger mt-2">
 
