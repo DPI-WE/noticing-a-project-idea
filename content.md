@@ -181,6 +181,7 @@ Return to Canvas and submit the URL of your ideas spreadsheet in the assignment 
 - [YCombinator: How to Get and Evaluate Startup Ideas](https://www.youtube.com/watch?v=Th8JoIan4dg)
 - [Paul Graham: How to get startup ideas](https://paulgraham.com/startupideas.html)
 - [Requests for Projects](https://rfp.dpi.dev/)
+- [Value Props: Create a Product People Will Actually Buy](https://www.youtube.com/watch?v=q8d9uuO1Cf4)
 
 ---
 
