@@ -1,9 +1,7 @@
 # Noticing a Project Idea
 
 <div class="alert alert-primary mt-2">
-
-[Video](https://youtu.be/meNvup0lX0U)
-
+  <a href="https://youtu.be/meNvup0lX0U">Video</a>
 </div>
 
 > "...everything around you that you call life was made up by people no smarter than you"
